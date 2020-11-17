@@ -14,7 +14,7 @@ int main() {
 	printf("A1 = %d\n",a);
 	printf("A2 = %d", b);
 	if (a < 0 && b < 0) {
-		printf("\nab = +");
+		printf("\nab = +"); 
 	
 	}
 	if (a == 0 || b == 0) {
